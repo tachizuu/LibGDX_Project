@@ -1,8 +1,6 @@
   package com.mygdx.game;
 
 import com.badlogic.gdx.graphics.Texture;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Enemy extends Character
 {
@@ -11,6 +9,7 @@ public class Enemy extends Character
     public Enemy(float x, float y)
     {
         super(ENEMY_TEXTURE, x, y, 2, 120, 2);   //textur, x, y, movement speed, hitpoints
+        this.flip(true, false);
     }
     
     public void changeDirection()
