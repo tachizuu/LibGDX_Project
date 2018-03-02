@@ -211,7 +211,7 @@ public class MyGdxGame extends Game
                     if(!e.isAlive())
                     {
                         score += 50;
-                        System.out.println(dungeon.getAllEnemies().size());
+                        
                         if(dungeon.getAllEnemies().isEmpty())
                         {
                             //spelaren har dödat alla fiender, ge stor bonus och avsluta spelet
