@@ -123,3 +123,8 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/xcshareddata
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
+.nb-gradle/private/cache/core-fb83b73eb3c879b18d343675f32aca61
+.nb-gradle/private/cache/core-fb83b73eb3c879b18d343675f32aca61
+.nb-gradle/private/cache/desktop-9bccb601584b92d9c041663102aef73f
+.nb-gradle/private/cache/LibGDX_Project-d41d8cd98f00b204e9800998ecf8427e
+.nb-gradle/profiles/private/aux-config
